@@ -1,8 +1,7 @@
 # Site
 title:              LABMIC- Projetos Abertos
 bio:                'Site de projetos abertos do Laboratorio de Modelagem e Inteligência Computacional da UFSJ'
-description:        "Você encontra nesse site informações sobre os projetos de
-código aberto desenvolvidos no labotorio de modelagem e Inteligência Computacional desenvolvidos na UFSJ"
+description:        "Você encontra nesse site informações sobre os projetos de código aberto desenvolvidos no labotorio de modelagem e Inteligência Computacional desenvolvidos na UFSJ"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
